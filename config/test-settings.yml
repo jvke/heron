@@ -1,0 +1,4 @@
+database:
+  database: heronn_test
+
+auth-dummy-login: true
